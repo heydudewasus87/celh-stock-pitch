@@ -1,6 +1,6 @@
 # Celsius Holdings (CELH) — Equity Valuation
 
-Perplexity Stock Pitch Competition: a full **DCF + comparable companies** valuation of Celsius
+A full **DCF + comparable companies** valuation of Celsius
 Holdings (Nasdaq: CELH), the energy-drink maker behind CELSIUS, Alani Nu, and Rockstar. Python
 pulls the financials from Yahoo Finance and an Excel model turns them into an intrinsic value and a buy/hold/sell
 call.
