@@ -1,21 +1,20 @@
 # Celsius Holdings (CELH) — Investment Recommendation
 
-**Recommendation: HOLD** (would buy below ~$26)
+**Current Recommendation: HOLD** (would buy below ~$26)
 **Current price:** ~$30.80 · **Blended target:** ~$30.40 · **Implied: ~1% downside**
 
-A personal DCF + comparables valuation, built on live financials (June 2026). The short
-version: Celsius is a great *brand* trading at a fair *price* — the stock sits within about 1%
+A personal DCF + comparables valuation, built on live financials (June 2026). Celsius is a great *brand* trading at a fair *price* — the stock sits within about 1%
 of its blended fair value, so there's no edge to exploit, and the upside case depends on a
 margin recovery that isn't guaranteed.
 
 ---
 
-## The setup
+## Company Context
 
 Celsius went from niche fitness drink to a top-three US energy brand, and the stock was a
-multi-year monster — before falling roughly 50%+ from its highs. In 2025 it bought Alani Nu
+multi-year riser before falling roughly 50%+ from its highs. In 2025 it bought Alani Nu
 for ~$1.9B and moved distribution into the PepsiCo system. So the question isn't "is this a
-good company" — it clearly is. The question is whether the *price* leaves room to make money.
+good company". The question is whether the *price* leaves room to make money.
 
 ---
 
@@ -32,14 +31,13 @@ good company" — it clearly is. The question is whether the *price* leaves room
 
 The blended target lands almost exactly on today's price. That's the definition of fairly
 valued — there's no obvious mispricing to trade, and the base-case DCF actually points
-slightly *down*. The wide spread between the bear (~$20) and bull (~$38) cases is the real
-story: this stock's value is unusually sensitive to a few assumptions.
+slightly *down*. The wide spread between the bear (~$20) and bull (~$38) cases is unusually sensitive to a few assumptions.
 
 ---
 
 ## Why HOLD, not BUY
 
-The whole bull case rests on **margin recovery**. Celsius's 2025 operating margin collapsed —
+The whole bull case rests on **margin recovery**. Celsius's 2025 operating margin collapsed,
 crushed by Alani Nu integration costs, distributor-termination charges from the PepsiCo
 transition, and heavy marketing spend. The DCF only gets exciting if margins climb back toward
 the mid-to-high teens. The sensitivity table makes the dependence stark: the value swings from
@@ -54,7 +52,7 @@ shows up in the numbers. There's no **margin of safety**.
 ## The bull case (why someone would buy)
 
 - **Category + brand.** The energy-drink category is still growing, and Celsius + Alani Nu +
-  Rockstar give it real shelf and demographic breadth (Alani Nu is a genuine Gen-Z hit).
+  Rockstar give it real shelf and demographic breadth (Alani Nu is a Gen-Z hit).
 - **PepsiCo distribution.** A world-class distribution partner and shareholder lowers execution
   risk on scaling.
 - **Cheaper than it was.** Down ~50%+ from the highs, and on *adjusted* (non-GAAP) earnings the
@@ -72,7 +70,7 @@ shows up in the numbers. There's no **margin of safety**.
 
 ---
 
-## Honest limitations
+## Model limitations
 
 - **Assumption-driven.** Like any DCF, the output is only as good as the WACC, growth, and
   margin inputs — which is exactly why the sensitivity table is included. Treat the *range*
@@ -83,7 +81,7 @@ shows up in the numbers. There's no **margin of safety**.
   from the latest filing would tighten this.
 - **Comps are a snapshot.** Peer multiples move daily; EV/Revenue is excluded entirely because
   Celsius's lower margins make a revenue multiple misleading.
-- **No private information.** Public financials only — no channel checks, no management access.
+- **No private information.** Public financials only.
 - **Not a price prediction.** "Fairly valued" describes value versus fundamentals, not where
   the stock goes next quarter.
 
@@ -91,7 +89,7 @@ shows up in the numbers. There's no **margin of safety**.
 
 ## Bottom line
 
-Celsius is a strong brand at a fair price — which makes it a **HOLD**, not a buy. At ~$30.80
+Celsius is a strong brand at a fair price which makes it a **HOLD**, not a buy. At ~$30.80
 versus a ~$30.40 blended target, the market is already paying for the margin recovery and
 continued growth, so the risk/reward is roughly balanced and the base case skews slightly
 negative. The disciplined move is to wait for a **margin of safety**: below ~$26, the bull case
